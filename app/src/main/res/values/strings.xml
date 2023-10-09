@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="monalisa">Monalisa (1503)</string>
+    <string name="Leonardo_da_Vinci">Leonardo da Vinci</string>
+    <string name="the_starry_night">The Starry Night (1889)</string>
+    <string name="Vincent_van_Gogh">Vincent van Gogh</string>
+    <string name="the_old_guitarist">The Old Guitarist (1903)</string>
+    <string name="Pablo_Picasso">Pablo Picasso</string>
+    <string name="the_ass_of_balaam_talking_before_angel">The Ass of Balaam Talking Before Angel (1939)</string>
+    <string name="Rembrandt_van_Rijn">Rembrandt van Rijn</string>
+    <string name="button_previous">Previous</string>
+    <string name="button_next">Next</string>
+</resources>
